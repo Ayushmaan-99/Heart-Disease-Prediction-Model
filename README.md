@@ -80,7 +80,6 @@ The best performing model (**SVM**) was saved using `joblib`:
 git clone https://github.com/your-username/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
-
 ### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
@@ -125,6 +124,10 @@ pip install numpy pandas seaborn matplotlib scikit-learn joblib sheryanalysis
 ```
 
 ---
+
+## 👨‍💻 Author
+
+**Ayushmaan-99**
 
 ## 📌 Future Improvements
 - Hyperparameter tuning for better accuracy  
